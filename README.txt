@@ -1,13 +1,13 @@
 
 TITLE: 
-Profile - 100% Fully Responsive Free HTML5 Bootstrap Template
+CV  - Badr EZZAOUIA
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by Badr EZZAOUIA
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://www.badrezzaouia.me/CV
+Twitter: https://twitter.com/BadrEzzaouia
+Facebook: https://www.facebook.com/awabe.zohar/
 
 
 CREDITS:
